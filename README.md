@@ -54,7 +54,7 @@ Hi, I'm **Shubham Sanger**, an aspiring **Business Analyst** with a strong found
 
 ## 📫 Contact Me
 
-- 📧 Email: [pk3667100@gmail.com]  
+- 📧 Email: pk3667100@gmail.com  
 - 💼 LinkedIn: [www.linkedin.com/in/itsshubhamsanger](https://www.linkedin.com/in/itsshubhamsanger/)  
 
 ---
