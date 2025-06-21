@@ -46,7 +46,6 @@ Hi, I'm **Shubham Sanger**, an aspiring **Business Analyst** with a strong found
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
 | **Sales Dashboard** | Built a dynamic sales dashboard for retail data analysis | Excel, Power BI |
-| **Customer Churn Analysis** | Analyzed telecom customer data to predict churn | Python, Jupyter |
 | **Project Planning Simulation** | Led a mock Agile project for website development | Trello, Gantt Chart |
 | **E-commerce Metrics Report** | Generated business reports based on sales and marketing KPIs | Google Sheets, SQL |
 
@@ -56,8 +55,6 @@ Hi, I'm **Shubham Sanger**, an aspiring **Business Analyst** with a strong found
 
 - 📧 Email: pk3667100@gmail.com  
 - 💼 LinkedIn: [www.linkedin.com/in/itsshubhamsanger](https://www.linkedin.com/in/itsshubhamsanger/)  
-
----
 
 
 ---
